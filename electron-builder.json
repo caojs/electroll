@@ -1,0 +1,7 @@
+{
+    "appId": "com.electron.electroll",
+    "publish": {
+        "provider": "github",
+        "repo": "https://github.com/caojs/electroll"
+    }
+}
